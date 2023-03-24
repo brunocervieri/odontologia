@@ -1,0 +1,4 @@
+logo 80x80
+1400x500 slides
+650x300 fotos ao lado do texto
+1280x720 cards
